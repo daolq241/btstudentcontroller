@@ -1,4 +1,4 @@
-package com.cybersoft.demo_restful_api;
+package com.daolq.btstudentcontroller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
